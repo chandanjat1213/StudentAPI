@@ -1,0 +1,9 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: Student-Controller-Service
+eureka:
+  instance:
+    hostname: localhost
+
